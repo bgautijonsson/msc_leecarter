@@ -1,4 +1,4 @@
-This is a companion repository to my MSc thesis *Faculty of Physical SciencesUniversity of Iceland2020Faculty of Physical SciencesUniversity of Iceland2020Continuous Categories and Age-SpecificMortality Rates: An application of Gaussianprocess priors to the Lee-Carter model*.
+This is a companion repository to my MSc thesis *Continuous Categories and Age-Specific Mortality Rates: An application of Gaussian process priors to the Lee-Carter model*.
 
 -----
 
